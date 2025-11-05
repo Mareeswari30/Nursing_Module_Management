@@ -74,7 +74,7 @@ export default function VitalsTracker() {
 
   return (
     <div style={{ padding: 30 }}>
-      <Typography variant="h5" gutterBottom>🫀 Patient Vital Tracker</Typography>
+      <Typography variant="h5" gutterBottom>Patient Vital Tracker</Typography>
 
       <Paper sx={{ padding: 3, marginBottom: 3 }}>
         <Grid container spacing={2}>
