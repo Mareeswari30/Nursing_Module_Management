@@ -50,7 +50,7 @@ export default function ShiftPlanner() {
   return (
     <Box sx={{ padding: 4 }}>
       <Typography variant="h5" gutterBottom>
-        👩‍⚕️ Nurse Shift Planner
+        Nurse Shift Planner
       </Typography>
 
       {Object.keys(grouped).length === 0 ? (
